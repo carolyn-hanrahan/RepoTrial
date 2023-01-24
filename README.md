@@ -1,2 +1,2 @@
 # RepoTrial
-computation biology class 2 trial repository.
+computational biology class 2 trial repository.
